@@ -4,7 +4,7 @@ email: gepeszed@gmail.com
 phone: 06-70-408-6452
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "gepeszed.hu" # the base hostname & protocol for your site
 
 facebook_username: gépészed.hu
 instagram_username:
